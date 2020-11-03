@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Twotter.Views.AddPostPage">
+    <Shell.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Add new post" TextColor="White" FontSize="22"         
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+    </Shell.TitleView>
+    
+    <ContentPage.Content>
+
+        <StackLayout>
+            <Entry Placeholder="Title"/>
+            <Entry Placeholder="Enter post message here"/>
+            <Button Text="Post"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
