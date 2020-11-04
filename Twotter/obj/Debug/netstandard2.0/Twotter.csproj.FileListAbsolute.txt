@@ -1,18 +1,36 @@
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\bin\Debug\netstandard2.0\Twotter.deps.json
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\bin\Debug\netstandard2.0\Twotter.dll
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\bin\Debug\netstandard2.0\ref\Twotter.dll
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\bin\Debug\netstandard2.0\Twotter.pdb
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.csprojAssemblyReference.cache
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.AssemblyInfoInputs.cache
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.AssemblyInfo.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.dll
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\ref\Twotter.dll
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.pdb
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Views\PostsPage.xaml.g.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Views\AddPostPage.xaml.g.cs
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Twotter.csproj.CoreCompileInputs.cache
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\Anton Gottfredsson\source\repos\Twotter\Twotter\obj\Debug\netstandard2.0\Views\TopPostPage.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.deps.json
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.dll
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/bin/Debug/netstandard2.0/ref/Twotter.dll
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.pdb
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.csprojAssemblyReference.cache
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.AssemblyInfoInputs.cache
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.AssemblyInfo.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.dll
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/ref/Twotter.dll
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.pdb
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Views/PostsPage.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Views/AddPostPage.xaml.g.cs
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.csproj.CoreCompileInputs.cache
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.0/Views/TopPostPage.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.deps.json
+/Users/anton/Documents/Xamarin/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.dll
+/Users/anton/Documents/Xamarin/Twotter/Twotter/bin/Debug/netstandard2.0/ref/Twotter.dll
+/Users/anton/Documents/Xamarin/Twotter/Twotter/bin/Debug/netstandard2.0/Twotter.pdb
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.csprojAssemblyReference.cache
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Views/AddPostPage.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Views/PostsPage.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Views/TopPostPage.xaml.g.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.AssemblyInfoInputs.cache
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.AssemblyInfo.cs
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.dll
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/ref/Twotter.dll
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.pdb

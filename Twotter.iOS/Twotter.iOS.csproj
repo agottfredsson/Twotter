@@ -68,6 +68,7 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Bootstrap\IOSSetup.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -132,8 +133,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Twotter\Twotter.csproj">
-      <Project>{9FAB0787-4BD5-4C69-AFCD-2AC6EB90E6CB}</Project>
+      <Project>{2F7099A4-42D0-490B-BE96-CF5599082F2F}</Project>
       <Name>Twotter</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Bootstrap\" />
   </ItemGroup>
 </Project>

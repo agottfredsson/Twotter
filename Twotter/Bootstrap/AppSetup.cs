@@ -17,6 +17,8 @@ namespace Twotter.Bootstrap
         protected virtual void RegisterDependencies(ContainerBuilder cb)
         {
             cb.RegisterType<PostsViewModel>().SingleInstance();
+            cb.RegisterType<AddPostViewModel>().SingleInstance();
+
             //cb.RegisterType<ItemsViewModel>().SingleInstance();
             //cb.RegisterType<ItemDetailViewModel>().SingleInstance();
             //cb.RegisterType<FirstPageViewModel>().SingleInstance();

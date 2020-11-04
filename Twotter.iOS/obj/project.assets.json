@@ -1173,39 +1173,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anton Gottfredsson\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/anton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anton Gottfredsson\\source\\repos\\Twotter\\Twotter.iOS\\Twotter.iOS.csproj",
+      "projectUniqueName": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj",
       "projectName": "Twotter.iOS",
-      "projectPath": "C:\\Users\\Anton Gottfredsson\\source\\repos\\Twotter\\Twotter.iOS\\Twotter.iOS.csproj",
-      "packagesPath": "C:\\Users\\Anton Gottfredsson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anton Gottfredsson\\source\\repos\\Twotter\\Twotter.iOS\\obj\\",
+      "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj",
+      "packagesPath": "/Users/anton/.nuget/packages/",
+      "outputPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Anton Gottfredsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/anton/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Anton Gottfredsson\\source\\repos\\Twotter\\Twotter\\Twotter.csproj": {
-              "projectPath": "C:\\Users\\Anton Gottfredsson\\source\\repos\\Twotter\\Twotter\\Twotter.csproj"
+            "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj": {
+              "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj"
             }
           }
         }

@@ -1,16 +1,14 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using Twotter.Bootstrap;
 
 namespace Twotter
 {
     public partial class App : Application
     {
-        public App()
+        public App(AppSetup setup)
         {
             InitializeComponent();
-
-            //MainPage = new AppShell();
+            AppContainer.Container = setup.CreateContainer();
             MainPage = new AppShell();
         }
 

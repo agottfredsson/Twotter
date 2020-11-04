@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{11A5C135-E7C5-4763-A68A-5A8FDA3816D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Twotter/Views/PostsPage.xaml.cs">
+    <Files>
+      <File FileName="Twotter/Views/AddPostPage.xaml" Line="18" Column="32" />
+      <File FileName="Twotter/ViewModels/AddPostViewModel.cs" Line="4" Column="50" />
+      <File FileName="Twotter/ViewModels/PostsViewModel.cs" Line="1" Column="1" />
+      <File FileName="Twotter/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="Twotter/Views/PostsPage.xaml" Line="3" Column="68" />
+      <File FileName="Twotter/Views/PostsPage.xaml.cs" Line="20" Column="79" />
+      <File FileName="Twotter/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Twotter/Bootstrap/AppSetup.cs" Line="4" Column="19" />
+      <File FileName="Twotter/App.xaml" Line="1" Column="1" />
+      <File FileName="Twotter/App.xaml.cs" Line="18" Column="10" />
+      <File FileName="Twotter/Bootstrap/AppContainer.cs" Line="1" Column="1" />
+      <File FileName="Twotter.Android/MainActivity.cs" Line="25" Column="55" />
+      <File FileName="Twotter.Android/Bootstrap/AndroidSetup.cs" Line="12" Column="10" />
+      <File FileName="Twotter.iOS/Bootstrap/IOSSetup.cs" Line="11" Column="43" />
+      <File FileName="Twotter.iOS/AppDelegate.cs" Line="27" Column="54" />
+      <File FileName="Twotter/Views/AddPostPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Twotter" expanded="True">
+            <Node name="Twotter" expanded="True">
+              <Node name="Bootstrap" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AddPostPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="PostsPage.xaml" expanded="True">
+                  <Node name="PostsPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Twotter.Android Xamarin.HotReload.DebuggerTimeoutException.Twotter.Android.HideInfoBar="True" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

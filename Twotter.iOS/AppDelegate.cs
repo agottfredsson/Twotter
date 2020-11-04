@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using Twotter.iOS.Bootstrap;
 using UIKit;
 
 namespace Twotter.iOS
@@ -23,7 +24,7 @@ namespace Twotter.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
+            LoadApplication(new App(new IOSSetup()));
 
             return base.FinishedLaunching(app, options);
         }

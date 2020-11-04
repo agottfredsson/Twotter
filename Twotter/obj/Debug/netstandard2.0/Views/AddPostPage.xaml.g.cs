@@ -13,7 +13,7 @@
 namespace Twotter.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\AddPostPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/AddPostPage.xaml")]
     public partial class AddPostPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

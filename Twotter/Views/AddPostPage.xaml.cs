@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Autofac;
+using Twotter.Bootstrap;
+using Twotter.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -15,6 +17,8 @@ namespace Twotter.Views
         public AddPostPage()
         {
             InitializeComponent();
+            BindingContext = AppContainer.Container.Resolve<AddPostViewModel>();
+
         }
     }
 }

@@ -13,9 +13,9 @@
     <ContentPage.Content>
 
         <StackLayout>
-            <Entry Placeholder="Title"/>
-            <Entry Placeholder="Enter post message here"/>
-            <Button Text="Post"></Button>
+            <Entry Placeholder="Title" Text="{Binding Title}"/>
+            <Entry Placeholder="Enter post message here" Text="{Binding Message}"/>
+            <Button Text="Post" Command="{Binding ButtonAddPost}"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

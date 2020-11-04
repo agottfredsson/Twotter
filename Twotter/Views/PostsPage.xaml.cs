@@ -17,7 +17,7 @@ namespace Twotter.Views
         public PostsPage()
         {
             InitializeComponent();
-            //BindingContext = AppContainer.Container.Resolve<PostsViewModel>();
+            BindingContext = AppContainer.Container.Resolve<PostsViewModel>();
         }
     }
 }
