@@ -13,7 +13,8 @@
     <ContentPage.Content>
 
         <StackLayout>
-            <Entry Placeholder="Title" Text="{Binding Title}"/>
+            <Entry
+                   Placeholder="Title" Text="{Binding Title}"/>
             <Entry Placeholder="Enter post message here" Text="{Binding Message}"/>
             <Button Text="Post" Command="{Binding ButtonAddPost}"></Button>
         </StackLayout>

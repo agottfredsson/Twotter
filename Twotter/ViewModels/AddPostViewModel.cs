@@ -53,6 +53,8 @@ namespace Twotter.ViewModels
                     post.userId = 1;
 
                     await _postApi.SavePostAsync(post);
+                    Title = "";
+                    Message = "";
                 });
             }
         }
