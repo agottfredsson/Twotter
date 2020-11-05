@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Twotter.Models;
 using System.Windows.Input;
+using Xamarin.Essentials;
 
 namespace Twotter.ViewModels
 {
@@ -25,8 +26,12 @@ namespace Twotter.ViewModels
 
             Task.Run(async () => { await FetchItems(); });
             LoadItemsCommand = new Command(async () => await FetchItems());
+
+           
+
+
         }
-       
+
 
         private async Task FetchItems()
         {

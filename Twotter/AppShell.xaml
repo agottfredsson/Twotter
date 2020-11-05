@@ -7,8 +7,8 @@
             <ShellContent Title="All posts">
                 <views:PostsPage />
         </ShellContent>
-            <ShellContent Title="Top Rated">
-                <views:TopPostPage />
+            <ShellContent Title="Location">
+                <views:LocationPage />
         </ShellContent>
     </Tab>
         <Tab Title="Add post" Icon="plane.png">

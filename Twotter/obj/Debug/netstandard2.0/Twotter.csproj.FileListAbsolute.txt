@@ -34,3 +34,4 @@ C:/Users/Anton Gottfredsson/source/repos/Twotter/Twotter/obj/Debug/netstandard2.
 /Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.dll
 /Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/ref/Twotter.dll
 /Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Twotter.pdb
+/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/Debug/netstandard2.0/Views/LocationPage.xaml.g.cs
