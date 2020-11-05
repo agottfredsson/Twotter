@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YI0xD6f+N5k/TtMWjhlkhGJ/laggnkoVDbYwpuTFv0QV+jjNj42xi0DhsUCxyA89Kn27FT6msEQgSLxys7fuzQ==",
+  "dgSpecHash": "3Ye+iFPtwcQ8VE+sPQAS39/JczddG4CqwB5A024iWS1769D0U1SjUxg5psSpdcr6aNjQpp05VRlhZiBpf/XSYQ==",
   "success": true,
   "projectFilePath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "/Users/anton/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/anton/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/anton/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/anton/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

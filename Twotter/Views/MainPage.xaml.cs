@@ -13,6 +13,7 @@ namespace Twotter
         public MainPage()
         {
             InitializeComponent();
+          
         }
     }
 }

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Twotter.Bootstrap;
+﻿using Twotter.Bootstrap;
 using Twotter.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -17,7 +12,7 @@ namespace Twotter.Views
         public PostsPage()
         {
             InitializeComponent();
-            BindingContext = AppContainer.Container.Resolve<PostsViewModel>();
+            BindingContext = AppContainer.Container.Resolve<PostsViewModel>();   
         }
     }
 }

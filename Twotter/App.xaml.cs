@@ -5,6 +5,8 @@ namespace Twotter
 {
     public partial class App : Application
     {
+        public static object PostsViewModel { get; internal set; }
+
         public App(AppSetup setup)
         {
             InitializeComponent();

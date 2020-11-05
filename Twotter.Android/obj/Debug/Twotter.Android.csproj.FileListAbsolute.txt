@@ -479,3 +479,4 @@
 /Users/anton/Documents/Xamarin/Twotter/Twotter.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/anton/Documents/Xamarin/Twotter/Twotter.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/anton/Documents/Xamarin/Twotter/Twotter.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/anton/Documents/Xamarin/Twotter/Twotter.Android/obj/Debug/android/assets/Newtonsoft.Json.dll

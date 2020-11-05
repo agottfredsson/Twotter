@@ -1,9 +1,9 @@
 ﻿
 using JetBrains.Annotations;
+using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-
-
+using Twotter.Models;
 
 namespace Twotter.ViewModels
 {
@@ -22,6 +22,8 @@ namespace Twotter.ViewModels
                 OnPropertyChanged();
             }
         }
+
+ 
 
         [NotifyPropertyChangedInvocator]
         protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)

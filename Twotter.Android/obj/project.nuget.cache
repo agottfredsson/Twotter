@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MySbGvPHG4f1uZ4IGraJOhX6JZmtcyJ55NgeeVsSCjo8lhnMijOgkqAVbmJBrqPVGLIJQsXlWf+4SvniJFTH9w==",
+  "dgSpecHash": "csT2MBhFOrGPe6YfZK+rDUGvzhvoobx6+NQ+rvQu/TPUZ/TSGNP6vJ7Zzw0+GRAC3ZNk4cyU47LngYT3W7HNOA==",
   "success": true,
   "projectFilePath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.Android/Twotter.Android.csproj",
   "expectedPackageFiles": [
     "/Users/anton/.nuget/packages/autofac/6.0.0/autofac.6.0.0.nupkg.sha512",
     "/Users/anton/.nuget/packages/jetbrains.annotations/2020.1.0/jetbrains.annotations.2020.1.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/Users/anton/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "/Users/anton/.nuget/packages/xamarin.android.arch.core.runtime/1.1.1.3/xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -1,7 +1,9 @@
 ﻿using Autofac;
 using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Text;
+using Twotter.Models;
 using Twotter.ViewModels;
 
 namespace Twotter.Bootstrap
@@ -18,6 +20,10 @@ namespace Twotter.Bootstrap
         {
             cb.RegisterType<PostsViewModel>().SingleInstance();
             cb.RegisterType<AddPostViewModel>().SingleInstance();
+            cb.RegisterType<PostApi>().SingleInstance();
+            cb.RegisterType<HttpClient>().SingleInstance();
+
+
 
             //cb.RegisterType<ItemsViewModel>().SingleInstance();
             //cb.RegisterType<ItemDetailViewModel>().SingleInstance();
