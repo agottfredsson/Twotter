@@ -26,9 +26,6 @@ namespace Twotter.Bootstrap
             cb.RegisterType<PostApi>().SingleInstance();
             cb.RegisterType<HttpClient>().SingleInstance();
             cb.RegisterType<XamarinEssentials>().As<IXamarinEssentials>().SingleInstance();
-
-
-          
         }
     }
 }

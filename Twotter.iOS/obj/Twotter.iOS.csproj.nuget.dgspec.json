@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj": {}
+    "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\Twotter.iOS.csproj": {}
   },
   "projects": {
-    "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj": {
+    "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\Twotter.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\Twotter.iOS.csproj",
         "projectName": "Twotter.iOS",
-        "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj",
-        "packagesPath": "/Users/anton/.nuget/packages/",
-        "outputPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/obj/",
+        "projectPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\Twotter.iOS.csproj",
+        "packagesPath": "C:\\Users\\ericj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
         "configFilePaths": [
-          "/Users/anton/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ericj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj": {
-                "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj"
+              "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj": {
+                "projectPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj"
               }
             }
           }
@@ -67,22 +73,28 @@
         }
       }
     },
-    "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj": {
+    "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj",
+        "projectUniqueName": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj",
         "projectName": "Twotter",
-        "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj",
-        "packagesPath": "/Users/anton/.nuget/packages/",
-        "outputPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/obj/",
+        "projectPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj",
+        "packagesPath": "C:\\Users\\ericj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
         "configFilePaths": [
-          "/Users/anton/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ericj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -136,7 +148,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

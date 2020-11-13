@@ -18,6 +18,17 @@ namespace Twotter.Views
         {
             InitializeComponent();
             BindingContext = AppContainer.Container.Resolve<AddPostViewModel>();
+            
+            
+            switch(Device.RuntimePlatform)
+            {
+                case Device.iOS:
+                    BackgroundColor = Color.Coral;
+                    break;
+                case Device.Android:
+                    BackgroundColor = Color.Brown;
+                    break;
+            }
 
         }
     }

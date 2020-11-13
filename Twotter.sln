@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twotter.iOS", "Twotter.iOS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twotter", "Twotter\Twotter.csproj", "{2F7099A4-42D0-490B-BE96-CF5599082F2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0B284470-075B-4F3D-A231-B44F8F4209EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{2F7099A4-42D0-490B-BE96-CF5599082F2F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{2F7099A4-42D0-490B-BE96-CF5599082F2F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{2F7099A4-42D0-490B-BE96-CF5599082F2F}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|iPhone.Build.0 = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0B284470-075B-4F3D-A231-B44F8F4209EE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

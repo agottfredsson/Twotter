@@ -2071,32 +2071,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/anton/.nuget/packages/": {}
+    "C:\\Users\\ericj\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anton/Documents/Xamarin/Twotter/Twotter.Android/Twotter.Android.csproj",
+      "projectUniqueName": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.Android\\Twotter.Android.csproj",
       "projectName": "Twotter.Android",
-      "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.Android/Twotter.Android.csproj",
-      "packagesPath": "/Users/anton/.nuget/packages/",
-      "outputPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.Android/obj/",
+      "projectPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.Android\\Twotter.Android.csproj",
+      "packagesPath": "C:\\Users\\ericj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet"
+      ],
       "configFilePaths": [
-        "/Users/anton/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ericj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj": {
-              "projectPath": "/Users/anton/Documents/Xamarin/Twotter/Twotter/Twotter.csproj"
+            "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj": {
+              "projectPath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter\\Twotter.csproj"
             }
           }
         }

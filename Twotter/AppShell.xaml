@@ -6,16 +6,16 @@
         <Tab Title="Posts" Icon="post.png">
             <ShellContent Title="All posts">
                 <views:PostsPage />
-        </ShellContent>
+            </ShellContent>
             <ShellContent Title="Location">
                 <views:LocationPage />
-        </ShellContent>
-    </Tab>
+            </ShellContent>
+        </Tab>
         <Tab Title="Add post" Icon="plane.png">
-        <ShellContent Title="Add post">
-            <views:AddPostPage />
-        </ShellContent>
-    </Tab>
+            <ShellContent Title="Add post">
+                <views:AddPostPage />
+            </ShellContent>
+        </Tab>
     </TabBar>
 
 </Shell>

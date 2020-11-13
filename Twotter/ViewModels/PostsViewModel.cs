@@ -43,7 +43,7 @@ namespace Twotter.ViewModels
             {
                 Items.Add(post);     
             }
-            Console.WriteLine(Items.Count);
+            Console.WriteLine("number of items: " + Items.Count);
 
             IsBusy = false;
         }

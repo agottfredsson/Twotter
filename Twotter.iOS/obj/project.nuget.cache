@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "35aP4vM9a9knQ6fF5e37ffIK26C7Yc7tIS/CAl3Xmq0cPd+GO5UmipGQtQ0XEpN4sgr47vBIZ5vNMC4oW+DK3Q==",
+  "dgSpecHash": "fJtYJtoHYMzj7YTKmsp1f1Xf+mh4q5R97sNdoXgmCHWJ2JseeCgbmU97TkZceD4lTPsdhzMsZjIch4PZfv/rJQ==",
   "success": true,
-  "projectFilePath": "/Users/anton/Documents/Xamarin/Twotter/Twotter.iOS/Twotter.iOS.csproj",
+  "projectFilePath": "C:\\Users\\ericj\\Desktop\\CSharp\\twotter\\Twotter.iOS\\Twotter.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/anton/.nuget/packages/autofac/6.0.0/autofac.6.0.0.nupkg.sha512",
-    "/Users/anton/.nuget/packages/jetbrains.annotations/2020.1.0/jetbrains.annotations.2020.1.0.nupkg.sha512",
-    "/Users/anton/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
-    "/Users/anton/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "/Users/anton/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/anton/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\ericj\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\ericj\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
+    "C:\\Users\\ericj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ericj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }
